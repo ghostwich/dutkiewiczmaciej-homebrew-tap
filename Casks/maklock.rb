@@ -8,7 +8,7 @@ cask "maklock" do
   homepage "https://github.com/dutkiewiczmaciej/MakLock"
 
   livecheck do
-    url "https://dutkiewiczmaciej.github.io/maklock/appcast.xml"
+    url "https://dutkiewiczmaciej.github.io/MakLock/appcast.xml"
     strategy :sparkle, &:short_version
   end
 
