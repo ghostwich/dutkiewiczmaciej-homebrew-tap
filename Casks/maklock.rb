@@ -1,6 +1,6 @@
 cask "maklock" do
-  version "1.0.0"
-  sha256 "1f6126b739049f862ada24b1867b05200cd015df422f9c4fc17feabaf104d7d1"
+  version "1.0.1"
+  sha256 "cd22f48441e64b0ad16d96351bd8ca5635ded393c8fa66d4f2f959497ea0f531"
 
   url "https://github.com/dutkiewiczmaciej/MakLock/releases/download/v#{version}/MakLock-#{version}.dmg"
   name "MakLock"
